@@ -1,0 +1,4 @@
+interface:
+  display_name: "Codex 配置图片生成"
+  short_description: "读取 Codex 当前提供商配置并使用 gpt-image-2 生成图片"
+  default_prompt: "Use $generate-relay-image to generate an image through my active Codex provider and save it locally."
